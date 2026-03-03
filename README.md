@@ -14,8 +14,8 @@ This project highlights skills in data wrangling, SQL analytics, statistical ana
 
 | File | Description |
 | --- | --- |
-| **`notebook.ipynb`** | Complete analysis — cleaning, feature engineering, SQL, visualizations, recommendations |
-| **`delhivery.csv`** | Raw dataset (download from Kaggle — link below) |
+| **`notebook.ipynb`** | Complete analysis - cleaning, feature engineering, SQL, visualizations, recommendations |
+| **`delhivery.csv`** | Raw dataset (download link below) |
 
 ---
 
