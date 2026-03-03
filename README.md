@@ -56,11 +56,11 @@ jupyter notebook notebook.ipynb
 ## 📊 Key Insights
 
 *  95.7% of trips exceed their estimated travel time across the network
-*  Intra-city last-mile deliveries are the biggest failure point — not long interstate routes
+*  Intra-city last-mile deliveries are the biggest failure point, not long interstate routes
 *  Trips dispatched at 7pm are 37% less delayed than trips dispatched at 11am
 *  Single-segment trips have the worst delay factor despite having the fewest handoffs
 *  Mumbai–Bhiwandi corridor has the highest volume of extreme outlier trips in the network
-*  Best performing corridor runs at nearly on-time (factor 0.98) — used as internal benchmark
+*  Best performing corridor runs at nearly on-time (factor 0.98) used as internal benchmark
 
 ---
 
